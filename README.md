@@ -1,50 +1,54 @@
-````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=ARC.exe&fontSize=70&fontAlignY=40&animation=fadeIn&desc=THE%20VIBE%20CODER&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=C792EA&center=true&vCenter=true&width=800&lines=not+just+vibe+coders...;WE+ARE+THE+VIBE+CODERS.;cat-powered+software+engineering.;building+cool+things+at+3AM.;professionally+overengineering+everything." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,30&text=ARC.exe&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=WE%20ARE%20THE%20VIBE%20CODERS&descAlignY=60&descSize=22"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-89DDFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-CHAOS-C792EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/POWERED_BY-CATS-FFB86C?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=not+just+vibe+coders...;WE+ARE+THE+VIBE+CODERS.;cat-powered+software+engineering.;building+cool+things+at+3AM.;professional+chaos+engineers." />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/MODE-CHAOS-FF00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POWERED_BY-CATS-FFB347?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AURA-IMMENSE-8A2BE2?style=for-the-badge"/>
+
+<br><br>
+
+<img width="65%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Nnd2N5YjRwb3Q5M3I4bnYwNWRxczA5eWQ0YzN6cTV6bnM4Z2F0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDh6NXM5ZXg2a3Fpajd5aXNjOHFlcG1jY3A1bmx6d3I2a2hnN3ExdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="35"> who_are_we.sh
+# 🐈 who_are_we.sh
 
 ```yaml
 name: ARC
-type: Software Developers
-vibe: dangerously creative
+type: elite vibe coders
+status: operational
 
 specialities:
   - backend engineering
   - automation
   - scalable systems
   - UI obsession
-  - making impossible things somehow work
+  - turning caffeine into software
 
-currently_doing:
-  - building cool stuff
+currently:
+  - shipping cool things
   - debugging reality
-  - surviving production deployments
+  - ignoring sleep warnings
 
 warning:
-  - we may disappear for hours fixing one pixel
-````
+  - emotionally attached to terminals
+```
 
 ---
 
 <div align="center">
 
-## 🐈‍⬛ feline_core.exe initialized
-
-<img width="65%" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212257464-1dc03683-ba49-44a2-985e-95fd5ec22d3f.gif"/>
 
 </div>
 
@@ -54,11 +58,13 @@ warning:
 
 <div align="center">
 
-### not just vibe coders.
+## not just vibe coders.
 
 # WE ARE THE VIBE CODERS.
 
-### engineering chaos into elegance ✨
+### engineering chaos into elegance ⚡
+
+<img width="50%" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
 
 </div>
 
@@ -68,15 +74,38 @@ warning:
 
 <div align="center">
 
-| Skill                | Power           |
+| Skill                | Level           |
 | -------------------- | --------------- |
 | Backend Engineering  | ██████████████  |
-| Frontend Development | ███████████░░   |
+| Frontend Development | ████████████░   |
 | Automation           | █████████████   |
 | Debugging            | ███████████████ |
-| DevOps               | ██████████░░    |
-| Sleep                | ██░░░░░░░░░     |
-| Touching Grass       | ░░░░░░░░░░░     |
+| DevOps               | ███████████░░   |
+| Sleep                | █░░░░░░░░░░░    |
+| Touching Grass       | ERROR 404       |
+
+</div>
+
+---
+
+# 💀 villain_arc.log
+
+```diff
+- normal developers write code
++ we build digital chaos beautifully
+```
+
+```bash
+we do not fear bugs
+
+bugs fear becoming our next feature
+```
+
+---
+
+<div align="center">
+
+<img width="60%" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
 
 </div>
 
@@ -85,12 +114,12 @@ warning:
 # 💻 live_terminal.log
 
 ```bash
-> initializing arc.exe...
+> initializing ARC.exe...
 
 [SYSTEM]
-✔ caffeine levels stable
 ✔ cat supervision active
 ✔ vibes immaculate
+✔ caffeine levels critical
 
 [WARNING]
 production deployment detected
@@ -101,18 +130,44 @@ somehow everything still works
 
 ---
 
+# 🩸 midnight_thoughts.md
+
+<div align="center">
+
+> we stopped explaining ourselves
+> and started shipping results.
+
+<br>
+
+> silence is nice
+> until the keyboard sounds like war.
+
+<br>
+
+> some people seek attention
+> we seek elegant architecture.
+
+<br>
+
+> they wanted normal
+> we installed linux.
+
+</div>
+
+---
+
 # ❤️ things_we_love.txt
 
 <div align="center">
 
-☕ late night coding
-🌧 rain sounds
-🐈 cats walking on keyboards
-🎧 lo-fi + terminal aesthetics
-🖤 elegant architectures
-✨ beautifully designed systems
-🌌 meaningful conversations
-🚀 building things people remember
+☕ coffee after midnight
+🌧 rain + coding
+🐈 cats with attitude
+🎧 lo-fi and terminal sounds
+🖤 beautifully designed systems
+⚡ overengineered side projects
+🌃 late-night debugging sessions
+🚀 building unforgettable things
 
 </div>
 
@@ -125,8 +180,8 @@ somehow everything still works
   "how_many_hours_do_we_code": "yes",
   "tabs_or_spaces": "emotional damage",
   "do_we_test_in_production": "next question",
-  "current_relationship_status": "committed to clean architecture",
-  "favorite_debugging_method": "staring aggressively at the screen"
+  "favorite_debugging_method": "staring aggressively at the screen",
+  "relationship_status": "committed to clean architecture"
 }
 ```
 
@@ -135,11 +190,12 @@ somehow everything still works
 # 🧠 current_mood.js
 
 ```javascript
-while(alive) {
+while(alive){
    eat();
    code();
    overthink();
    deploy();
+   repeat();
 }
 ```
 
@@ -147,12 +203,25 @@ while(alive) {
 
 <div align="center">
 
-## 🌙 terminal thoughts
+<img width="70%" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-> we love code that feels alive.
-> we love systems that breathe elegance.
-> we love cats with attitude.
-> we love creating things that outlive moods.
+</div>
+
+---
+
+# ☠ aura.txt
+
+<div align="center">
+
+### we romanticize:
+
+💻 terminals
+🌧 rain
+☕ caffeine
+🌃 3AM coding
+🐈 emotionally unavailable cats
+🖤 elegant systems
+⚡ controlled chaos
 
 </div>
 
@@ -163,12 +232,12 @@ while(alive) {
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-ARC.exe-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-ARC.exe-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -176,9 +245,11 @@ while(alive) {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
 
-### engineered with caffeine, chaos, and cat energy 🐈‍⬛
+# ⚡ engineered with caffeine, chaos, and cat energy ⚡
+
+<img width="35%" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"/>
 
 </div>
 
@@ -186,6 +257,3 @@ while(alive) {
 if you're reading this,
 the cat already knows.
 -->
-
-```
-```
