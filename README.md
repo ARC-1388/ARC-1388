@@ -1,207 +1,190 @@
-````md
+# 🌌 philosophy.md
+
+<div align="center">
+
+## not just vibe coders.
+
+# WE ARE THE VIBE CODERS.
+
+### "whatever it takes." ⚡
+
+<img width="50%" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
+
+</div>
+
+---
+
 # 💀 villain_arc.log
 
 ```diff
-- they wanted ordinary
-+ we chose legendary
-````
+- normal developers write code
++ we build systems worthy of endgame battles
+```
 
 ```bash
-we stopped seeking validation
+we are inevitable.
+```
 
-and started building empires silently
+```bash
+sometimes the cleanest architecture
+comes from surviving complete chaos
 ```
 
 ---
 
-# ⚠ system_warning.txt
+# 🧠 arc_reactor_core.py
 
-```yaml
-status: locked_in
-emotion: controlled chaos
-mindset: unstoppable
+```python id="7dzvhb"
+class ARC:
 
-warning:
-  - sleep deprivation detected
-  - dangerous levels of ambition
+    def __init__(self):
+        self.power = "caffeine"
+        self.mood = "controlled chaos"
+        self.sleep = False
+
+    def build(self):
+        return "something legendary"
+
+we_are_arc = ARC()
 ```
 
 ---
 
-# 🩸 midnight_protocol.md
+# ⚡ avengers_protocol.exe
+
+```yaml id="c7sn7r"
+mission:
+  - build legendary things
+  - survive impossible deadlines
+  - protect clean architecture
+
+status:
+  "whatever it takes"
+
+threat_level:
+  multiversal bugs detected
+```
+
+---
+
+# 🩸 midnight_thoughts.md
 
 <div align="center">
 
-> we stayed quiet
-> and let the results become the noise.
+> "part of the journey is the end."
 
 <br>
 
-> pain changes people.
-> discipline transforms them.
+> we stopped waiting for perfect moments
+> and started building anyway.
 
 <br>
 
-> every sleepless night
-> was another brick in the empire.
+> some people break under pressure
+> we become dangerous.
 
 <br>
 
-> they watched us struggle.
-> now they watch us evolve.
+> every late night
+> is another battle survived.
+
+<br>
+
+> they wanted ordinary developers
+> we assembled.
 
 </div>
 
 ---
 
-# ☠ mentality.sh
+# ☠ infinity_loop.js
 
-```bash
-while(others_quit){
-    we_continue();
+```javascript id="9t5ldx"
+while(universeExists){
+
+   code();
+   fail();
+   learn();
+   rebuild();
+
 }
 ```
 
 ---
 
-# 🔥 revenge_mode.cpp
+# ⚔️ battle_status.log
 
-```cpp
-if(doubt_exists){
-   work_harder();
-}
-```
+```bash id="8tfrfc"
+[ SYSTEM STATUS ]
 
-```bash
-success is built from nights nobody sees
-```
-
----
-
-# 🌑 emotionally_unavailable.js
-
-```javascript
-const feelings = undefined;
-
-const focus = [
-   "building",
-   "learning",
-   "becoming unstoppable"
-];
+✔ arc reactor stable
+✔ cat supervision active
+✔ caffeine reserves critical
+✔ morale questionable
+✔ deployment inevitable
 ```
 
 ---
 
-# ⚡ pressure_handler.sys
+# 🐈 feline_directive.sys
 
-```yaml
-pressure:
-  normal_people: break
-  us: evolve
+```yaml id="7mlmkr"
+rule_1: trust the process
+rule_2: trust the cat
+rule_3: never surrender the architecture
 ```
 
 ---
 
-# 🖤 deep_thoughts.txt
+# 🚀 final_transmission.txt
 
 <div align="center">
 
-> consistency creates monsters.
+> "proof that pain can create powerful things."
 
 <br>
 
-> the strongest versions of us
-> were built during the darkest nights.
+> we did not quit.
+> and that changed everything.
 
 <br>
 
-> we learned patience from failure
-> and power from persistence.
-
-<br>
-
-> hard times introduced us
-> to a stronger version of ourselves.
+> built in darkness.
+> deployed in chaos.
+> remembered in legends.
 
 </div>
 
 ---
 
-# 🚨 rage_engine.log
-
-```bash
-> initializing focus mode...
-
-[SYSTEM]
-✔ emotions suppressed
-✔ ambition amplified
-✔ distractions terminated
-
-[STATUS]
-locked in.
-```
-
----
-
-# ⚔ aura_upgrade.txt
+# ⚡ aura.txt
 
 <div align="center">
 
 ### we romanticize:
 
-🌧 rainy nights
-💻 glowing terminals
-☕ caffeine addiction
-🖤 silent ambition
-🌃 coding until sunrise
+⚡ arc reactors
+💻 Ultron
+🌧 rain
+☕ caffeine
+🌃 3AM coding
 🐈 emotionally unavailable cats
-⚡ becoming impossible to ignore
+🖤 elegant systems
+🛸 cinematic chaos
+
 
 </div>
 
 ---
 
-# 🧠 persistence.md
+# 🎭 multiverse_faq.json
 
-> we rest.
-> we adapt.
-> we improve.
-> but we never quit.
-
----
-
-> one day
-> the pain becomes power.
-
----
-
-> every late night is an investment
-> in a future nobody can see yet.
-
----
-
-# 🐈 cat_protocol.sys
-
-```yaml
-cat_state:
-  mood: judging us silently
-  responsibility: supervising deployments
-  trust_level: low
-```
-
----
-
-# ⚡ final_transmission.sh
-
-```bash
-we are not built from motivation
-
-we are built from discipline
-```
-
-<div align="center">
-
-# WE DO NOT STOP.
-
-</div>
+```json id="ukukse"
+{
+  "favorite_avenger": "tony stark",
+  "sleep_schedule": "non-canon",
+  "power_source": "coffee and unresolved ambition",
+  "current_mission": "building impossible things",
+  "final_boss": "production bugs"
+}
 ```
