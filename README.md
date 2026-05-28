@@ -1,237 +1,184 @@
 ````md
 <div align="center">
 
-# ARC.exe
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=ARC.exe&fontSize=70&fontAlignY=40&animation=fadeIn&desc=THE%20VIBE%20CODER&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=not+just+a+vibe+coder...;THE+vibe+coder.;cat-approved+software+developer.;professional+bug+negotiator.;emotionally+powered+engineering." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=C792EA&center=true&vCenter=true&width=800&lines=not+just+vibe+coders...;WE+ARE+THE+VIBE+CODERS.;cat-powered+software+engineering.;building+cool+things+at+3AM.;professionally+overengineering+everything." />
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-89DDFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-CHAOS-C792EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POWERED_BY-CATS-FFB86C?style=for-the-badge"/>
 
 </div>
 
 ---
 
-```bash
-$ whoami
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDh6NXM5ZXg2a3Fpajd5aXNjOHFlcG1jY3A1bmx6d3I2a2hnN3ExdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="35"> who_are_we.sh
 
-ARC
-Software Developer
-Cat-certified architect of chaos.
+```yaml
+name: ARC
+type: Software Developers
+vibe: dangerously creative
 
-Current Status:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▰ writing code
-▰ collecting unfinished side projects
-▰ pretending the deployment was intentional
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+specialities:
+  - backend engineering
+  - automation
+  - scalable systems
+  - UI obsession
+  - making impossible things somehow work
 
-System Report:
-CPU Usage     : 98%
-RAM Usage     : 99%
-Mental Stability : NULL
+currently_doing:
+  - building cool stuff
+  - debugging reality
+  - surviving production deployments
+
+warning:
+  - we may disappear for hours fixing one pixel
 ````
 
 ---
 
 <div align="center">
 
-/_/\\
-( o.o )
+## 🐈‍⬛ feline_core.exe initialized
 
-> ^ <
+<img width="65%" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
 
 </div>
 
 ---
 
-# about_me.txt
+# 🌌 philosophy.md
 
-```yaml
-name: ARC
-role: Software Developer
-speciality:
-  - backend engineering
-  - automation
-  - system architecture
-  - debugging things that should not exist
+<div align="center">
 
-currently_learning:
-  - more scalable systems
-  - cleaner architecture
-  - how to sleep before 3AM
+### not just vibe coders.
 
-personality_traits:
-  - sarcastic
-  - obsessive about details
-  - emotionally attached to terminals
-  - probably debugging right now
+# WE ARE THE VIBE CODERS.
 
-warning:
-  - may disappear for hours while fixing one pixel alignment issue
-```
+### engineering chaos into elegance ✨
+
+</div>
 
 ---
 
-# philosophy.sys
+# ⚡ skill_tree.exe
+
+<div align="center">
+
+| Skill                | Power           |
+| -------------------- | --------------- |
+| Backend Engineering  | ██████████████  |
+| Frontend Development | ███████████░░   |
+| Automation           | █████████████   |
+| Debugging            | ███████████████ |
+| DevOps               | ██████████░░    |
+| Sleep                | ██░░░░░░░░░     |
+| Touching Grass       | ░░░░░░░░░░░     |
+
+</div>
+
+---
+
+# 💻 live_terminal.log
 
 ```bash
-Some people write code.
+> initializing arc.exe...
 
-I engineer vibes.
+[SYSTEM]
+✔ caffeine levels stable
+✔ cat supervision active
+✔ vibes immaculate
 
-Not just a vibe coder.
+[WARNING]
+production deployment detected
 
-THE vibe coder.
+[INFO]
+somehow everything still works
 ```
 
 ---
 
-# experience.log
+# ❤️ things_we_love.txt
 
-## ARC Labs
+<div align="center">
 
-`Software Developer`
+☕ late night coding
+🌧 rain sounds
+🐈 cats walking on keyboards
+🎧 lo-fi + terminal aesthetics
+🖤 elegant architectures
+✨ beautifully designed systems
+🌌 meaningful conversations
+🚀 building things people remember
 
-Built scalable systems.
-Broke scalable systems.
-Rebuilt scalable systems better.
-
-### responsibilities:
-
-* making machines do magic
-* overengineering personal projects
-* turning caffeine into architecture
-* fighting CSS at 2AM
-* staring aggressively at bugs until they disappear
-
-### achievements:
-
-* survived production deployments
-* fixed bugs accidentally
-* convinced code to work through emotional support
+</div>
 
 ---
 
-# skill_tree.exe
+# 🎭 FAQ.json
 
-```text
-Backend Engineering     ██████████████
-Frontend Development    ███████████░░
-DevOps                  █████████░░░░
-Automation              █████████████
-Debugging               ████████████████
-Sleep                   ██░░░░░░░░░░░
-Touching Grass          ░░░░░░░░░░░░░
+```json
+{
+  "how_many_hours_do_we_code": "yes",
+  "tabs_or_spaces": "emotional damage",
+  "do_we_test_in_production": "next question",
+  "current_relationship_status": "committed to clean architecture",
+  "favorite_debugging_method": "staring aggressively at the screen"
+}
 ```
 
 ---
 
-# currently_vibing_to.mp3
+# 🧠 current_mood.js
 
-```txt
-☾ late night rain sounds
-☾ keyboard clicks
-☾ silent overthinking
-☾ cats walking across keyboards
-☾ lo-fi + terminal aesthetics
-```
-
----
-
-# things_i_love.md
-
-* beautifully designed systems
-* minimal interfaces
-* emotionally intelligent people
-* elegant code
-* cats with attitude
-* building things that outlive moods
-* dark themes
-* meaningful conversations
-* software that feels alive
-
----
-
-# relationship_status.sh
-
-```bash
-relationship_status="committed to clean architecture"
-```
-
----
-
-# FAQ.md
-
-### Q: how many hours do you code?
-
-```bash
-yes
-```
-
-### Q: tabs or spaces?
-
-```bash
-emotional damage
-```
-
-### Q: do you test in production?
-
-```bash
-next question
-```
-
-### Q: are you actually productive?
-
-```bash
-define productive
-```
-
-### Q: why cats?
-
-```bash
-they understand chaos.
-```
-
----
-
-# live_system_logs.log
-
-```yaml
-[02:14:03] cat detected on keyboard
-[02:14:07] deployment approved
-[02:14:10] nobody knows what happened
-[02:14:12] production still running somehow
-```
-
----
-
-# terminal_thoughts.txt
-
-```bash
-I love:
-- code that feels alive
-- people who stay
-- coffee after midnight
-- elegant architectures
-- silent rooms with loud thoughts
-- cats judging me while debugging
-```
-
----
-
-# contact.init
-
-```yaml
-github: github.com/YOUR_USERNAME
-status: probably coding
-response_time: depends on caffeine levels
+```javascript
+while(alive) {
+   eat();
+   code();
+   overthink();
+   deploy();
+}
 ```
 
 ---
 
 <div align="center">
 
-### engineered with caffeine, chaos, and cat energy.
+## 🌙 terminal thoughts
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C792EA,100:89DDFF&height=120&section=footer"/>
+> we love code that feels alive.
+> we love systems that breathe elegance.
+> we love cats with attitude.
+> we love creating things that outlive moods.
+
+</div>
+
+---
+
+# 📡 connect_with_us
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-ARC.exe-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+### engineered with caffeine, chaos, and cat energy 🐈‍⬛
 
 </div>
 
